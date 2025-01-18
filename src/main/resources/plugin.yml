@@ -1,0 +1,10 @@
+name: VoidWorld
+version: '1.0-SNAPSHOT'
+main: com.inloadings.voidWorldGenerator.VoidWorld
+api-version: '1.21'
+commands:
+  void:
+    description: "makes a void world for testing purposes."
+    aliases:
+      - voidworld
+    permission: void-world
